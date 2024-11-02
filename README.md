@@ -2,7 +2,7 @@
 
 I'm a tech enthusiast, currently pursuing a dual degree in **Computer Science & Engineering Technology** and **Cybersecurity**. My work spans various programming projects with a focus on **cybersecurity**, **game development**, and **backend systems**. One day, I hope to specialize in ethical hacking and work as a penetration tester, leveraging my technical skills to enhance digital security.
 
-## check out my website, https://ch4rlesexe.github.io
+## Check out my website, https://ch4rlesexe.github.io!
 ---
 
 ## 🔍 About Me
