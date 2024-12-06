@@ -54,3 +54,5 @@ I'm a tech enthusiast, currently pursuing a dual degree in **Computer Science & 
 ## 📫 Connect With Me
 
 Explore my repositories to see what I’m working on, and feel free to reach out through issues or discussions here on GitHub. Let’s create something innovative together!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch4rlesexe&layout=compact)
