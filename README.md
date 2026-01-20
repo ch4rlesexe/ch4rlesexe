@@ -10,7 +10,7 @@ I'm a tech enthusiast, currently pursuing a dual degree in **Computer Science & 
 
 - 🌱 **Currently Learning:** Cybersecurity principles, game development, and web applications. I’m also diving into **malware development** and **ethical hacking**, with a focus on **cybersecurity pentesting** and digital defense.
 
-- 💻 **Languages & Skills:** I have hands-on experience with **Java**, **Python**, **PHP**, **HTML**, **CSS**, **SQL**, and **JavaScript**. While I am still learning, I enjoy expanding my knowledge and applying what I learn to projects. Though I have some experience in **C++**, most of my skills are focused on Java, Python, and web technologies.
+- 💻 **Languages & Skills:** I have hands-on experience with **C++**, **ASM**, **Java**, **Python**, and many others. While I am still learning, I enjoy expanding my knowledge and applying what I learn to projects. 
 
 - 🚀 **Recent Projects**:
   - **Minecraft Plugins** – Customizable plugins that elevate gameplay with unique features and functionality. These can be found on my GitHub or my Spigot.
